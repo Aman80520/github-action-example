@@ -34,4 +34,4 @@ jobs:
 
     # Upload the full dependency graph to GitHub
     - name: Update dependency graph
-      uses: github/dependency-submission-action@v1
+      uses: github/dependency-submission-action@v4
